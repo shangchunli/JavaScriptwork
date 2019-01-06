@@ -10,7 +10,7 @@
         height: 130px;
         background-color:#fff;
         width: 100%;
-        margin-top: -10px;
+        margin-top:-10px;
     }
     .box1_1{
         margin:0 auto;
@@ -110,125 +110,6 @@
         color:blue;
         float: left;
     }
-
-    /**{
-    	padding: 0;
-      	margin: 0;
-    }
-    .big{
-        width: 100%;
-        margin-top: -10px;
-    }
-    .box{
-    	width:100%;
-    	height:130px;
-        z-index: 1;
-        background-color: #fff;
-    }
-    .content1{
-    	width:1180px;
-    	height:130px;
-    	margin:0 auto;
-    	background-color: #fff;
-         margin-top:10px;
-    }
-    .num1{
-    	color:gray;
-    	float:left;
-    	margin-right:250px;
-    }
-    .box1{
-    	height:130px;
-    	width: 1180px;
-        margin-top: 20px; 
-    }
-    .num2{
-    	color:gray;
-    	float: right;
-    	margin-right: 10px;
-    	font-size: 14px;
-    }
-    .num3{
-    	color:gray;
-    	float: right;
-    	font-size: 14px;
-    }
-    .num4{
-    	margin-left:120px;
-    	margin-right: 13px;
-    	
-    }
-    .num{
-    	margin-right: 13px;
-    	margin-left: 13px;
-    }
-    .num5{
-    	float: right;
-    	color:red;
-    	font-size: 12px;
-    }
-    .pic{
-    	float: right;
-    	margin-top:4px;
-    }
-    .sou{
-    	width:498px;
-    	height:35px ;
-    	border:4px solid #fe6c00;
-    	margin-right:423px;
-    	float: right;
-    	margin-top: 20px;
-    }
-    .search{
-    	width:85px;
-    	height: 43px;
-    	background-color:#fe6c00;
-    	font-color:white;
-    	border:1px solid #fe6c00;
-    	margin-left:-8px;
-    	float: right;
-    	margin-right: 403px;
-    	margin-top:-46px;
-    	border-radius: 3px;
-        color:#fff;
-    }
-    .num6{
-    	font-size:12px;
-    	color:red;
-    	margin-top:13px;
-    	margin-left: 254px;
-    }
-    .num7{
-		font-size:12px;
-    	color:red;
-    }
-    .num8{
-    	font-size:12px;
-    	color:gray;
-    }
-    .shuxian{
-    	border-width: 1px;
-    	border-left-style: solid;
-    	border-color: gray;
-    	margin-left:8px;
-    	margin-right: 8px;
-    }
-    .call{
-    	float: right;
-    	margin-right: 84px;
-    	margin-top: -45px;
-    }
-    .problem{
-    	float:right;
-    	background-color: #ff4d04;
-    	font-color:green;
-    	width:86px;
-    	height: 39px;
-    	margin-top: -42px;
-    	border:0px;
-    	border-radius: 3px;
-        color:#fff;
-    }*/
     .nav2{
         width: 1180px;
         height: 42px;
