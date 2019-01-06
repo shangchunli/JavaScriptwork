@@ -214,6 +214,7 @@
     	width: 170px;
     	height: 120px;
     	margin-top: -12px;
+        list-style: none;
     }
     .box6{
     	height: 361px;
@@ -263,7 +264,7 @@
     	margin-left: -97px;
     	margin-right: 8px;
     }
-    .text1{
+    .text5_1{
     	float: left;
     	font-size: 12px;
     	margin-bottom:16px;
@@ -279,7 +280,6 @@
     	float: left;
     	margin-right: 85px;
     	margin-bottom: 10px;
-
     }
     .box10{
     	height: 180px;
