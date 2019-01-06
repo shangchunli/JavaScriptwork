@@ -1,4 +1,117 @@
     *{
+        padding: 0;
+        margin: 0;
+    }
+    .box{
+        width: 100%;
+        z-index: 1;
+    }
+    .box1{
+        height: 130px;
+        background-color:#fff;
+        width: 100%;
+        margin-top: -10px;
+    }
+    .box1_1{
+        margin:0 auto;
+        background-color: #fff;
+        height: 130px;
+        width: 1180px;
+    }
+    .text1_1{
+        font-size:12px;
+        color:gray;
+        margin-right: 377px;
+        float: left;
+        padding-top: 10px;
+    }
+    .pic1{
+        margin-right: 14px;
+        float: left;
+        margin-top: 7px;
+    }
+    .text1_2{
+        font-size: 12px;
+        margin-right: 16px;
+        float: left;
+        padding-top: 10px;
+    }
+    .pic2{
+        float: left;
+        padding-top: 12px;
+        margin-right: 5px;
+    }
+    .text1_3{
+        color:#fe6c00;
+        font-size:12px;
+        padding-top:10px;
+    }
+    .pian1{
+        float: left;
+        margin-top:15px;
+        margin-right: 1000px;
+    }
+    .text1_4{
+        width: 498px;
+        height: 34px;
+        margin-left: 200px;
+        border:3px solid #fe6c00;
+        margin-top: -50px;
+        float: left;
+    }
+    .search{
+        width: 80px;
+        height: 40px;
+        border:0;
+        border-radius:0 3px 3px 0;
+        background-color: #fe6c00;
+        margin-top: -50px;
+        margin-left: 700px;
+        font-size: 16px;
+        float: left;
+    }
+    .pian2{
+        margin-left: 926px;
+        float: left;
+        margin-top:-50px;
+    }
+    .problem{
+        background-color: #ff4d04;
+        width: 80px;
+        height: 40px;
+        border:0;
+        border-radius:3px;
+        margin-top: -47px;
+        float: right;
+    }
+    .tit{
+        margin-left: 210px;
+        margin-top:5px;  
+        float: left;
+        list-style: none;
+    }
+    .text1_5{
+        font-size: 12px;
+        color:red;
+        float: left;
+    }
+    .pic5{
+        margin-left: 6px;
+        margin-right: 6px;
+        float: left;
+    }
+    .text1_6{
+        font-size: 12px;
+        color:gray;
+        float: left;
+    }
+    .text1_7{
+        font-size: 12px;
+        color:blue;
+        float: left;
+    }
+
+    /**{
     	padding: 0;
       	margin: 0;
     }
@@ -115,7 +228,7 @@
     	border:0px;
     	border-radius: 3px;
         color:#fff;
-    }
+    }*/
     .nav2{
         width: 1180px;
         height: 42px;
