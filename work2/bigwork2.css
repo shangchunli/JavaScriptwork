@@ -73,7 +73,7 @@
     }
     .pic4{
     	margin-left: 87px;
-    	margin-top: 35px;
+    	margin-top: 32px;
     	float: left;
     }
     .problem{
@@ -192,6 +192,7 @@
     .txt2{
     	margin-top:20px;
     	font-size: 16px;
+        font-weight: bolder;
     }
     .txt3{
     	margin-top:12px;
@@ -213,12 +214,14 @@
     .txt6{
     	padding-top: 2px;
     	font-size:12px;
+        text-decoration: line-through;
     }
     .txt7{
     	margin-top:18px;
     	margin-left: -130px;
     	font-size: 12px;
     	float: left;
+        font-weight: bolder;
     }
     .txt8{
     	margin-top:18px;
@@ -227,11 +230,12 @@
     	margin-bottom: 11px;
     	float: left;
     	margin-left: -80px;
+        font-weight: bolder;
     }
     .txt9{
     	margin-top:18px;
     	font-size: 12px;
-    	
+    	font-weight: bolder;
     }
     .pic9{
     	background-color: #fff;
@@ -462,10 +466,8 @@
     .tiao2{
         margin-left: 25px;
         height:55px;
-        width: 490px;
-        
+        width: 490px;    
     }
-    
     .txtt7{
     	font-size: 12px;
     	margin-left: 25px;
@@ -509,7 +511,6 @@
     	height: 28px;
     	float: left;
         text-align: center;
-
     }
     .chose2{
     	width: 53px;
@@ -548,7 +549,6 @@
         height: 60px;
         width: 60px;
         border:1px solid #fff;
-
     }
     #c4{
     	float: right;
@@ -556,7 +556,6 @@
         width: 26px;
         margin-left: 234px;
     }
-
     #slider{
         width: 180px;
         height: 180px;
@@ -576,7 +575,6 @@
         left:0;
         top:0;
     }
-
     .tiao1{
         margin-top:25px;
         width: 470px;
@@ -637,6 +635,7 @@
         width: 26px;
         height: 29px;
         float: left;
+        line-height: 26px;
     }
     #zi4{
         text-align: center;
@@ -651,25 +650,31 @@
         height: 29px;
         border:1px solid #aca7a2;
         margin-right: 26px;
+        line-height: 26px;
     }
     .zi5{   
         padding-top:8px;
+    }
+    .zi5 span{
+        font-weight: bolder;
     }
     .tiao3{
         height: 20px;
         width: 470px;
         margin-top:17px;
         margin-left: 25px;
-        font-size:12px;
+        font-size:14px;
     }
     .zi6{
         float: left;
-        margin-right:60px; 
+        margin-right:60px;
+        font-size: 12px; 
     }
     .zi7{
         float: left;
         color:#ff0754;
         padding-top:4px;
+        font-weight: bolder;
     }
     .zi8{
         padding-top: 4px;
@@ -741,7 +746,6 @@
         top:300px;
         left: 500px;
     }
-
     #no{
         width: 10px;
         height: 10px;
@@ -775,7 +779,6 @@
         border:1px solid #ff0754;
         border-radius: 5px;
     }
-
     #img1{
         float:left;
         position:absolute;
